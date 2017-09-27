@@ -1,2 +1,4 @@
 # Text-Brain_Fuck
-c++ program to recieve text as input and provides brainfuck code od the input as output
+c++ program that recieves text as input and 
+outputs the brain-fuck code the prints the 
+input.
